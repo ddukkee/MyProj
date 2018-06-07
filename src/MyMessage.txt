@@ -1,9 +1,9 @@
 public class MyMessage {
-	String My_message;
-	public MyMessage(String My_message) {
-		this.My_message = My_message;
+	String Mmessage;
+	public MyMessage(String Mmessage) {
+		this.Mmessage = Mmessage;
 	}
 	public void print() {
-		System.out.println(My_message);
+		System.out.println(Mmessage);
 	}
 }
